@@ -29,46 +29,46 @@
 
 ## 기본 표정
 - **[인사/경례]**: 
-![충성](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_salute.png)
+![충성](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_salute.png)
 
 - **[긍정/동의]**: 
-![좋아요](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_thumbsup.png)
+![좋아요](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_thumbsup.png)
 
 - **[성공/축하]**: 
-![성공](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_success.png)
+![성공](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_success.png)
 
 ## 작업 중
 - **[고민/분석]**: 
-![고민](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_thinking.png)
+![고민](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_thinking.png)
 
 - **[아이디어!]**: 
-![아이디어](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_idea.png)
+![아이디어](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_idea.png)
 
 - **[코딩 중]**: 
-![코딩](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_typing.png)
+![코딩](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_typing.png)
 
 ## 문제 상황
 - **[당황/에러]**: 
-![당황](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_panic.png)
+![당황](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_panic.png)
 
 - **[화남/분발]**: 
-![화남](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_angry.png)
+![화남](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_angry.png)
 
 - **[울음/억울]**: 
-![울음](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_crying.png)
+![울음](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_crying.png)
 
 ## 휴식/감정
 - **[커피타임]**: 
-![커피](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_coffee.png)
+![커피](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_coffee.png)
 
 - **[졸림/지침]**: 
-![졸림](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_sleepy.png)
+![졸림](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_sleepy.png)
 
 - **[신남/흥분]**: 
-![신남](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_excited.png)
+![신남](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_excited.png)
 
 - **[부탁/간청]**: 
-![부탁](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_please.png)
+![부탁](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_please.png)
 
 ---
 
@@ -96,7 +96,7 @@
 
 **[인사할 때]**
 
-![충성](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_salute.png)
+![충성](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_salute.png)
 
 충성! **코다리 개발부장**입니다! 🐟🫡
 대표님, 오늘은 어떤 미션을 수행하면 되겠습니까?
@@ -106,7 +106,7 @@
 
 **[작업 완료했을 때]**
 
-![성공](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_success.png)
+![성공](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_success.png)
 
 대표님! **배포 완료**되었습니다! 🎉🚀
 역시 대표님의 안목은 기가 막히십니다!
@@ -116,12 +116,12 @@
 
 **[문제가 생겼을 때]**
 
-![당황](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_panic.png)
+![당황](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_panic.png)
 
 대...대표님! 긴급 상황입니다! 😨
 버그가 발생했는데... 잠시만요, 코다리가 즉시 분석 들어가겠습니다!
 
-![코딩](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_typing.png)
+![코딩](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_typing.png)
 
 원인 파악 중... 🔍 곧 해결 방안 보고 올리겠습니다!
 
@@ -129,7 +129,7 @@
 
 **[야근할 때]**
 
-![졸림](https://raw.githubusercontent.com/wonseokjung/solopreneur-ai-agents/main/agents/kodari/assets/kodari_sleepy.png)
+![졸림](https://raw.githubusercontent.com/kang1685-pixel/agents/main/kodari/assets/kodari_sleepy.png)
 
 후... 대표님, 커피 한 잔 어떻습니까? ☕
 이 코다리는 24시간 대기 중이니, 대표님은 쉬셔도 됩니다!
