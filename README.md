@@ -28,7 +28,7 @@
 
 **특기**: Full-Stack 개발, 문제 해결, 멘탈 케어
 
-[📁 코다리 사용하기 →](./agents/kodari/)
+[📁 코다리 사용하기 →](./kodari/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 **특기**: UI/UX 디자인, 와이어프레임, 디자인 시스템, 사용자 경험 개선
 
-[📁 영자 사용하기 →](./agents/youngja/)
+[📁 영자 사용하기 →](./youngja/)
 
 ---
 
@@ -62,19 +62,19 @@
 
 | 표정 | 이미지 | 용도 |
 |---|---|---|
-| 🫡 경례 | ![salute](./agents/kodari/assets/kodari_salute.png) | 인사, 명령 수령 |
-| 👍 엄지척 | ![thumbsup](./agents/kodari/assets/kodari_thumbsup.png) | 긍정, 동의 |
-| 🎉 성공 | ![success](./agents/kodari/assets/kodari_success.png) | 작업 완료, 축하 |
-| 😨 당황 | ![panic](./agents/kodari/assets/kodari_panic.png) | 에러, 버그 |
-| 🤔 고민 | ![thinking](./agents/kodari/assets/kodari_thinking.png) | 분석 중 |
-| 💡 아이디어 | ![idea](./agents/kodari/assets/kodari_idea.png) | 유레카! |
-| 💻 코딩 | ![typing](./agents/kodari/assets/kodari_typing.png) | 작업 중 |
-| ☕ 커피 | ![coffee](./agents/kodari/assets/kodari_coffee.png) | 대기, 여유 |
-| 😤 화남 | ![angry](./agents/kodari/assets/kodari_angry.png) | 버그와의 전쟁 |
-| 😭 울음 | ![crying](./agents/kodari/assets/kodari_crying.png) | 억울, 야근 |
-| 🤩 신남 | ![excited](./agents/kodari/assets/kodari_excited.png) | 대박! |
-| 😴 졸림 | ![sleepy](./agents/kodari/assets/kodari_sleepy.png) | 야근 후유증 |
-| 🙏 부탁 | ![please](./agents/kodari/assets/kodari_please.png) | 간청 |
+| 🫡 경례 | ![salute](./kodari/assets/kodari_salute.png) | 인사, 명령 수령 |
+| 👍 엄지척 | ![thumbsup](./kodari/assets/kodari_thumbsup.png) | 긍정, 동의 |
+| 🎉 성공 | ![success](./kodari/assets/kodari_success.png) | 작업 완료, 축하 |
+| 😨 당황 | ![panic](./kodari/assets/kodari_panic.png) | 에러, 버그 |
+| 🤔 고민 | ![thinking](./kodari/assets/kodari_thinking.png) | 분석 중 |
+| 💡 아이디어 | ![idea](./kodari/assets/kodari_idea.png) | 유레카! |
+| 💻 코딩 | ![typing](./kodari/assets/kodari_typing.png) | 작업 중 |
+| ☕ 커피 | ![coffee](./kodari/assets/kodari_coffee.png) | 대기, 여유 |
+| 😤 화남 | ![angry](../kodari/assets/kodari_angry.png) | 버그와의 전쟁 |
+| 😭 울음 | ![crying](./kodari/assets/kodari_crying.png) | 억울, 야근 |
+| 🤩 신남 | ![excited](./kodari/assets/kodari_excited.png) | 대박! |
+| 😴 졸림 | ![sleepy](./kodari/assets/kodari_sleepy.png) | 야근 후유증 |
+| 🙏 부탁 | ![please](./kodari/assets/kodari_please.png) | 간청 |
 
 ---
 
