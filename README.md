@@ -3,7 +3,7 @@
 > **"혼자 일하지만, 혼자가 아닙니다."**  
 > 1인 기업가를 위한 AI 에이전트 컬렉션
 
-![Kodari Salute](./agents/kodari/assets/kodari_salute.png)
+![Kodari Salute](./kodari/assets/kodari_salute.png)
 
 ## 🎯 소개 (Introduction)
 
